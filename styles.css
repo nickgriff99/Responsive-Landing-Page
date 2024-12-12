@@ -96,6 +96,8 @@ h1, h2, h3 {
   width: 100%;
   height: auto;
   border-radius: 8px;
+  max-height: 350px;
+  max-width: auto;
 }
 
 .card h3 {
